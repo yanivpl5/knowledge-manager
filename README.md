@@ -1,5 +1,5 @@
 # knowledge-manager
-===================
+-------------------
 This project is a practice for Spring Core, Spring Data and Spring Boot.
 The main features of the project will be:
 - Create knowledge articles
