@@ -7,3 +7,10 @@ The main features of the project will be:
 - Search for articles
 - Define collection of articles
 - Save atricle state
+
+Services
+---------
+- Service will be implemented as REST services based on JSON request/response.
+- All the service will be stateless.
+- Service request may contain the user id and will be user specific.
+
