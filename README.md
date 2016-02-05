@@ -16,6 +16,6 @@ Services
 
 Requirments
 -----------
-- Mongo V3
+- MongoDB V3
 - Maven
 - IDE (eclipse or other)
