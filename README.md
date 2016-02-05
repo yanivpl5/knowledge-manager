@@ -14,3 +14,8 @@ Services
 - All the service will be stateless.
 - Service request may contain the user id and will be user specific.
 
+Requirments
+-----------
+- Mongo V3
+- Maven
+- IDE (eclipse or other)
